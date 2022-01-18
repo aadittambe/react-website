@@ -1,4 +1,1 @@
-## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
-# react-website
+## Personal Portfolio using React and Next.js for web development practice!
